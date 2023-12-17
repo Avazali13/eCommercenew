@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/ecommercenew/configuration/general
+https://ecommercenew.netlify.app/
